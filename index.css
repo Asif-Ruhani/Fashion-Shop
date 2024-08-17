@@ -1,0 +1,85 @@
+
+/* Navigation section styles */
+
+header{
+    background-color: #fffbf0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 200px;
+    padding-top: 50px;
+}
+nav div{
+    /* border: 1px solid red; */
+}
+nav div img{
+    width: 300px;
+}
+nav ul{
+    /* border: 1px solid red; */
+    display: flex;
+}
+nav li{
+    list-style: none;
+    padding-left: 100px;
+    font-size: x-large;
+}
+
+
+/* Banner section styles */
+
+
+
+.div_class1{
+    /* border: 1px solid red; */
+    margin: 30px 200px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 150px;
+}
+.div_class2{
+    /* border: 1px solid red; */
+}
+.div_class2 h1{
+    font-size: 5em;
+    text-transform: uppercase;
+}
+.div_class2 h1 span{
+    color: #fabe4c;
+}
+.div_class2 p{
+    font-size:x-large;
+    margin-top: -1.5em;
+}
+.div_class2 div{
+    /* border: 1px solid red; */
+}
+.div_class2 div button{
+    width: 250px;
+    height: 80px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-size: 1.2em;
+
+    background-color: #85a019e0;
+    color: white;
+    border: none;
+    margin-left: -55px;
+    padding-left: 50px;
+}
+.div_class2 div img{
+    height: 50px;
+    width: 50px;
+
+    position: relative;
+    left: 32px;
+    top: 15px;
+}
+.div_class1 img{
+    height: 650px;
+}
+
