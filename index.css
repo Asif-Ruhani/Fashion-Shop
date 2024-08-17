@@ -166,6 +166,48 @@ nav li{
 
 
 
+/* Last section styles */
+
+
+
+.div_class10{
+    display: flex;
+    /* border: 1px solid red; */
+    justify-content: space-between;
+    margin: 150px 180px;
+}
+.div_class11{
+    /* border: 1px solid red; */
+}
+.div_class11 img{
+    width: 800px;
+    height: 500px;
+}
+.div_class12{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    box-shadow: 0 1px 5px 0 rgb(0 0 0 / 0.2);
+    padding: 20px 40px;
+    border-radius: 20px;
+
+    width: 550px;
+}
+.div_class12 img{
+    width: 100px;
+    height: 100px;
+}
+.div_class10 h1{
+    font-size: 2.3em;
+    padding-left: 50px;
+}
+.div_class10 p{
+    font-size: larger;
+    padding-left: 50px;
+}
+
+
+
 @media screen and (max-width:576px) {
     nav{
         margin: 0px;
